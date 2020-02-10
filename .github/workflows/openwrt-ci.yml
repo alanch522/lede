@@ -9,9 +9,9 @@
 
 name: OpenWrt-CI v20200209.1
 
-on:
-  push:
-    branches: 
+#on:
+  #push:
+    #branches: 
       - master
   #schedule:
     #- cron: 0 20 * * *
